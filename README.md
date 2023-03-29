@@ -1,1 +1,1 @@
-Data Collection fro teh Suncatcher Project
+Data Collection for the Suncatcher Project
